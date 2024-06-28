@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/jayanijayasinghe/static/css/main.bf538fe7.css",
+    "main.js": "/jayanijayasinghe/static/js/main.c5cfc3d7.js",
+    "static/media/HeroImage.jpg": "/jayanijayasinghe/static/media/HeroImage.e969d4057cc06374dab7.jpg",
+    "index.html": "/jayanijayasinghe/index.html",
+    "main.bf538fe7.css.map": "/jayanijayasinghe/static/css/main.bf538fe7.css.map",
+    "main.c5cfc3d7.js.map": "/jayanijayasinghe/static/js/main.c5cfc3d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.c5cfc3d7.js"
+  ]
+}
